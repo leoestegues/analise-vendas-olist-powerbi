@@ -1,4 +1,5 @@
 📊 Dashboard de Performance: Marketplace de Produtos (Olist)
+
 📌 Sobre o Projeto
 Este projeto apresenta uma análise profunda de performance de vendas de um marketplace, utilizando o dataset público da Olist. O objetivo foi transformar dados brutos de e-commerce em insights estratégicos para gestão de faturamento, logística e comportamento do consumidor.
 
