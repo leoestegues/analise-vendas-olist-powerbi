@@ -45,3 +45,4 @@ README.md: Documentação completa do projeto.
 
 Este projeto foi uma excelente oportunidade para aplicar técnicas avançadas de BI. A maior lição foi entender que um gráfico bonito não serve para nada se os dados por trás não forem confiáveis. A correção das datas foi o que transformou um erro técnico em uma análise de negócio real de 3 anos de história.
 
+![Capa do Projeto](Apresentação%20PowerBI.png)
